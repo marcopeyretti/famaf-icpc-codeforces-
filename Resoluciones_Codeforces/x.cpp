@@ -16,4 +16,8 @@ int main ()
     }
     sort(v.begin(),v.end(),cont);
     v.erase(v.begin());
+    map<char,int> m;
+    m['a']=1;
+    set <int> s;
+    s.insert(3);
 }
